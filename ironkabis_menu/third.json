@@ -1,0 +1,117 @@
+[
+  [
+      {
+          "title": "Сатал Столичный",
+          "subtitle": "картофель, курица, яйцо",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп Грибной",
+          "subtitle": "30/220г",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Голубцы с картоф пюре",
+          "subtitle": "110/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Капуска квашенная с брусникой",
+          "subtitle": "брусника",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп Геп Лывжа",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Люля с запеченным картофелем",
+          "subtitle": "80/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Пикантный",
+          "subtitle": "курица, огурец, перец, конишоны, горчица",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп с фрикадельками",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Плов",
+          "subtitle": "30/200",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+  [
+      {
+          "title": "Салат Овощной",
+          "subtitle": "огурец, помидор",
+          "image": {
+              "url": "https://shop.samberi.com/upload/iblock/8a3/8a39edc85fc0a803b55d1cdd836c0af4.png"
+          }
+      },
+      {
+          "title": "Суп Шулем",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "http://vkusno-alushta.ru/media/images/Ukha_s_semgoi.width-800.png"
+          }
+      },
+      {
+          "title": "Рубленная котлета из кеты с рисом",
+          "subtitle": "100/150 гр",
+          "image": {
+              "url": "http://ladyelena.ru/wp-content/uploads/2017/04/lenivye-golubcy-11.jpg"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Корочка",
+          "subtitle": "огурец, ветчина, перец",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Щи",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Курица под белым соусом с пюре",
+          "subtitle": "60/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ]
+]

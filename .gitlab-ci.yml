@@ -1,0 +1,54 @@
+stages:
+    - compile
+    - deploy
+    - test
+    - undeploy
+Compile: &JobCompile
+    type: compile
+    only:
+      - master
+    tags:
+        - dapp
+    variables:
+      NAMESPACE: "production"
+      CI_COMMIT_REF_SLUG: "production"
+    script:
+        - dapp dimg stages pull docker.iondv.ru/app/$CI_PROJECT_NAME || true
+        - dapp dimg build --use-system-tar
+        - dapp dimg push --with-stages --tag-ci docker.iondv.ru/app/$CI_PROJECT_NAME
+    allow_failure: false
+Deploy: &JobDeploy
+    type: deploy
+    only:
+      - master
+    tags:
+        - kube-deploy
+    script:
+        - bash ./deploy.sh
+        - kubectl apply -f `pwd`/.deploy
+        - echo "http://${CI_COMMIT_REF_SLUG}.${CI_PROJECT_NAME}.kube.local"
+        - kubectl rollout status -n $NAMESPACE deploy/${CI_PROJECT_NAME}-${CI_COMMIT_REF_SLUG}
+    when: on_success
+    variables:
+      NAMESPACE: "production"
+      CI_COMMIT_REF_SLUG: "production"
+    environment:
+      name: $NAMESPACE/$CI_COMMIT_REF_SLUG
+      url: http://${CI_COMMIT_REF_SLUG}.${CI_PROJECT_NAME}.kube.local
+      on_stop: Undeploy
+Undeploy:
+    type: undeploy
+    only:
+      - master
+    tags:
+        - kube-deploy
+    script:
+        - bash ./deploy.sh
+        - kubectl delete -f `pwd`/.deploy
+    variables:
+      NAMESPACE: "production"
+      CI_COMMIT_REF_SLUG: "production"
+    when: manual
+    environment:
+      name: $NAMESPACE/$CI_COMMIT_REF_SLUG
+      action: stop

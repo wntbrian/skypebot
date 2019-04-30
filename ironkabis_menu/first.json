@@ -1,0 +1,117 @@
+[
+  [
+      {
+          "title": "Салат Загадка",
+          "subtitle": "капуста цветная, морковь, курица",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп-пюре с курицей",
+          "subtitle": "250",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Котлета по-домашнему с гречкой",
+          "subtitle": "80/150г",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Свежесть",
+          "subtitle": "капуста, огурец, помидор",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп Гороховый",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Люля с запеченным картофелем",
+          "subtitle": "80/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Весенний",
+          "subtitle": "картофель, огурец, помидор",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Рассольник",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Курица с овощным рагу",
+          "subtitle": "250",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+  [
+      {
+          "title": "Салат Крабовый",
+          "subtitle": "краб.палочки, огурец, рис, яйцо",
+          "image": {
+              "url": "https://shop.samberi.com/upload/iblock/8a3/8a39edc85fc0a803b55d1cdd836c0af4.png"
+          }
+      },
+      {
+          "title": "Суп Фасолевый",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "http://vkusno-alushta.ru/media/images/Ukha_s_semgoi.width-800.png"
+          }
+      },
+      {
+          "title": "Котлеты щучьи с отварным картофелем",
+          "subtitle": "90/150 гр",
+          "image": {
+              "url": "http://ladyelena.ru/wp-content/uploads/2017/04/lenivye-golubcy-11.jpg"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Винегрет",
+          "subtitle": "100г",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп Кюфта Бозбаш",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Чахохбили с рисом",
+          "subtitle": "60/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ]
+]

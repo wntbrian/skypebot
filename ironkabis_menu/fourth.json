@@ -1,0 +1,117 @@
+[
+  [
+      {
+          "title": "Салат Овощной с орехом",
+          "subtitle": "помидор, огурец, орех грецкий",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Борщ",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Бифштекс с рисом",
+          "subtitle": "80/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Сельдь под шубой",
+          "subtitle": "100",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп Гречнеый",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Тефтеля с картофельным пюре",
+          "subtitle": "80/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат с шампиньенами",
+          "subtitle": "фасоль, грибы, помидор, сухарики",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Солянка по-домашнему",
+          "subtitle": "30/220",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Тушеный картофель с курицей",
+          "subtitle": "250",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ],
+  [
+      {
+          "title": "Салат Витаминный",
+          "subtitle": "100 гр / капуста, морковь, яблоко",
+          "image": {
+              "url": "https://shop.samberi.com/upload/iblock/8a3/8a39edc85fc0a803b55d1cdd836c0af4.png"
+          }
+      },
+      {
+          "title": "Суп с клецками",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "http://vkusno-alushta.ru/media/images/Ukha_s_semgoi.width-800.png"
+          }
+      },
+      {
+          "title": "Рыба запеченная с рисом",
+          "subtitle": "100/150 гр",
+          "image": {
+              "url": "http://ladyelena.ru/wp-content/uploads/2017/04/lenivye-golubcy-11.jpg"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Восточный с курицей",
+          "subtitle": "огурец, куринная грудка, лук, яйцо",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Суп Крестьянский",
+          "subtitle": "250",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      },
+      {
+          "title": "Мясная подлива с гречкой",
+          "subtitle": "100/150",
+          "image": {
+              "url": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
+          }
+      }
+  ]
+]

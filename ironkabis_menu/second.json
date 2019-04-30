@@ -1,0 +1,117 @@
+[
+  [
+      {
+          "title": "Салат Амурский",
+          "subtitle": "кета, помидор",
+          "image": {
+              "url": "https://static.1000.menu/img/content/18760/salat-amurskii_1485481590_0_max.jpg"
+          }
+      },
+      {
+          "title": "Суп с рисом и яйцом",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "https://static.1000.menu/img/content/13435/kurinyi-sup-s-yaicom-i-vermishelu_1435040708_0_max.jpg"
+          }
+      },
+      {
+          "title": "Бефстроганов с пюре",
+          "subtitle": "",
+          "image": {
+              "url": "http://venezia.menu/wp-content/uploads/menu-09-03.jpg"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Мексиканская соната",
+          "subtitle": "кукуруза, перец болгарский, огурец",
+          "image": {
+              "url": "https://static.1000.menu/img/content/10819/salat-iz-vetchinj-s-ogurtsami_1373177077_0_max.jpg"
+          }
+      },
+      {
+          "title": "Свекольник",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "https://static.1000.menu/img/content/13851/klassicheskii-goryachii-svekolnik-s-myasom_1438542942_0_max.jpg"
+          }
+      },
+      {
+          "title": "Гуляш с рисом",
+          "subtitle": "",
+          "image": {
+              "url": "http://recept4you.ru/wp-content/uploads/2017/9/guljash-s-risom_22_1.jpg"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Московский",
+          "subtitle": "ветчина, яйцо, картофель",
+          "image": {
+              "url": "https://static.1000.menu/img/content/22048/moskovskii-salat-klassicheskii_1503447963_14_max.jpg"
+          }
+      },
+      {
+          "title": "Тефтелевый",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "http://2recepta.com/recept/kartofelnyj-sup-s-frikadelkami-i-vermishelyu/kartofelnyj-sup-s-frikadelkami-i-vermishelyu.jpg"
+          }
+      },
+      {
+          "title": "Азу по-татарски",
+          "subtitle": "",
+          "image": {
+              "url": "https://static.1000.menu/img/content/23179/azu-po-tatarski-iz-govyadiny_1508777552_1_max.jpg"
+          }
+      }
+  ],
+  [
+      {
+          "title": "Салат Восточный",
+          "subtitle": "100 гр / огурец, говядина, лук, яйцо",
+          "image": {
+              "url": "https://shop.samberi.com/upload/iblock/8a3/8a39edc85fc0a803b55d1cdd836c0af4.png"
+          }
+      },
+      {
+          "title": "Уха",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "http://vkusno-alushta.ru/media/images/Ukha_s_semgoi.width-800.png"
+          }
+      },
+      {
+          "title": "Ленивые голубцы с пюре",
+          "subtitle": "100/150 гр",
+          "image": {
+              "url": "http://ladyelena.ru/wp-content/uploads/2017/04/lenivye-golubcy-11.jpg"
+          }
+      }
+  ],
+    [
+      {
+          "title": "Салат Цада",
+          "subtitle": "картофель, фасоль, говядина",
+          "image": {
+              "url": "https://static.1000.menu/img/content/511/kartofelno-fasolevji-zimnii-salat-tsada-s-govyadinoi_1351629445_8_max.jpg"
+          }
+      },
+      {
+          "title": "Суп Харчо",
+          "subtitle": "30/220 гр",
+          "image": {
+              "url": "https://static.1000.menu/img/content/22168/sup-xarcho-klassicheskii-s-risom_1503918415_8_max.jpg"
+          }
+      },
+      {
+          "title": "Котлеты куриные с макаронами",
+          "subtitle": "80/150 гр",
+          "image": {
+              "url": "https://e2.edimdoma.ru/data/recipes/0007/4149/74149-ed4_wide.jpg"
+          }
+      }
+  ]
+]

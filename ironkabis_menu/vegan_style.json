@@ -1,0 +1,25 @@
+[
+  [
+      {
+          "title": "Листья салата",
+          "subtitle": "",
+          "image": {
+              "url": "https://edaplus.info/food_pictures/lettuce.jpg"
+          }
+      },
+      {
+          "title": "Гречневый суп с зеленой фасолью",
+          "subtitle": "",
+          "image": {
+              "url": "https://www.orangekitchen.ru/wp-content/uploads/2011/02/sup_gr0.jpg"
+          }
+      },
+      {
+          "title": "Овощи гриль",
+          "subtitle": "",
+          "image": {
+              "url": "https://www.gastronom.ru/binfiles/images/20180425/b7d6c53f.jpg"
+          }
+      }
+  ]
+]

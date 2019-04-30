@@ -1,0 +1,25 @@
+dimg: ~
+from: python:3-alpine
+git:
+  - add: /
+    to: /app
+    stageDependencies:
+      setup:
+      - '*'
+      install:
+      - requirements.txt
+shell:
+  install:
+    - pip install --no-cache-dir -r /app/requirements.txt
+  beforeSetup:
+    #- mkdir /opt || True
+    - echo "python /app/main.py" > /opt/start.sh
+  setup:
+    - echo {{ env "CI_COMMIT_TAG" }} > /app/version.info
+docker:
+  ENV:
+    GOOGLE_DEV_KEY: {{ env "GOOGLE_DEV_KEY" }}
+    GOOGLE_CX_SEARCH: {{ env "GOOGLE_CX_SEARCH" }}
+  WORKDIR: /app
+  ENTRYPOINT: ["sh", "/opt/start.sh"]
+  EXPOSE: "8080"
